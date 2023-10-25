@@ -1,0 +1,91 @@
+.headerWrapper {
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.headerContainer {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 1200px;
+    
+
+}
+.headerLogoWrapper {
+    display: flex;
+    width: 30%;
+    text-decoration: none;
+    color: black;
+    
+}
+.logoHeader {
+    width: 100px;
+}
+.headerTextWrapper {
+    display: flex;
+    flex-direction: column;
+    // align-items: center;
+    margin-left: 10px;
+    font-size: 20px;
+    
+}
+.textLogo {
+    font-weight: bold;
+
+}
+.headerMenuContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 70%;
+
+
+}
+.headerPhoneContainer {
+display: flex;
+justify-content: space-around;
+font-size: 25px;
+width: 100%;
+
+}
+
+.phoneWrapper {
+    display: flex;
+    align-items: center;
+}
+.phoneImg{
+    width: 50px;
+}
+.emailWrapper {
+    display: flex;
+    align-items: center;
+}
+.emailImg{
+    width: 50px;
+}
+.emailSpan{
+    margin-left: 10px;
+}
+.headerMenu {
+    width: 100%;
+    display: flex;
+}
+.navMenu {
+    width: 100%;
+    
+}
+.ulHeader {
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    padding: 0;
+}
+.name{  
+    text-decoration: none;
+    color: black;
+}

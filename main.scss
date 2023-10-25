@@ -1,0 +1,171 @@
+.mainWrapper {
+    width: 100%;
+}
+.mainContainer {
+}
+.titleMainWrapper {
+    background-image: url(../src/pictures/gradient-peach-background-with-pink-shades.jpg);
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.titleMain{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    
+}
+.titleMainTextWrapper {
+  width: 70%;
+}
+.titleMainH1 {
+    font-size: 30px;
+}
+.titleMainH2 {
+    font-size: 20px;
+}
+.titleMainButton {
+  
+}
+.titleButton {
+    width: 200px;
+    height: 35px;
+    border: none;
+    background-color: #dc7b43;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+}
+.productCartWrapper {
+    margin: 0 auto;
+    margin-top: 50px;
+    max-width: 1500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.productCart {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+.productCartImg {
+    width: 50%;
+    height: 450px;
+    background-image: url(../src/pictures/gradient-peach-background-with-pink-shades.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cartImg {
+    width: 400px;
+    
+}
+.productCartTextWrapper {
+    width: 45%;
+}
+.productCartTextTitle {
+
+}
+.productCartDesc {
+    font-size: 20px;
+}
+.productCartButtonWrapper{
+    display: flex;
+    justify-content: space-between;
+
+}
+.costProductWrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.cost{
+    font-size: 25px;
+}
+.productCartButtonBuy {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+
+}
+.buttonImgBuy{
+    rotate: 180deg;
+    width: 30px;
+    margin-right: 10px;
+}
+.buttonBuy {
+    display: flex;
+    align-items: center;
+    width: 100px;
+    height: 30px;
+    border: none;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.productCartButtonLearnMore {
+}
+.mainFormWrapper{    
+    margin-top: 50px;
+    background-image: url(../src/pictures/gradient-peach-background-with-pink-shades.jpg);
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+    .mainFormContainer {
+        width: 450px;
+        height: 250px;
+        border: 1px solid;
+        display: flex;
+        justify-content: center;
+    }
+    .mainForm {
+        width: 80%;
+    }
+    .textForm {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+        font-size: 20px;
+    }
+  
+    .imputForm {
+        display: flex;
+        flex-direction: column;
+    }
+    .input_main {
+        padding-top: 20px;
+        margin-top: 20px;
+        background-color: #ece4e1;
+        border: none;
+        border-bottom: 1px solid;
+        
+    }
+   
+    .buttonForm {
+        margin-top: 40px;
+        display: flex;
+        justify-content: center;
+    }
+    .formButton {
+        width: 200px;
+        height: 30px;
+        background-color:#dc7b43;
+        border: none;
+        border-radius: 10px;
+        color: white;
+        font-size: 15px;
+    }
